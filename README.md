@@ -10,6 +10,10 @@ A simple CMD script that should be run on all Promotion Efficiency new machines
 
 ## Stuff to consider
 
+### Convert to Powershell
+
+### Consider below
+
 ```powershell
 # Sound: Disable Startup Sound
 Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" "DisableStartupSound" 1
