@@ -1,2 +1,9 @@
 # New_Station
- Similar to dotfiles, but Windowsy
+
+A simple powershell script that should be run on all Promotion Efficiency new machines
+
+
+### Usage
+1. Download the BAT file
+2. Run as administrator
+3. That's it
