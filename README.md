@@ -10,6 +10,12 @@ A simple CMD script that should be run on all Promotion Efficiency new machines
 
 ## Stuff to consider
 
+### Enable Policy Accept from Controller 
+
+### Change Locale to English
+
+### Disable IPV6
+
 ### Convert to Powershell
 
 ### Consider below
